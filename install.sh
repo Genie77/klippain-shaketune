@@ -1,8 +1,8 @@
 #!/bin/bash
 
-USER_CONFIG_PATH="${HOME}/printer_1_data/config"
-MOONRAKER_CONFIG="${HOME}/printer_1_data/config/moonraker.conf"
-KLIPPER_PATH="${HOME}/klipper"
+USER_CONFIG_PATH="${HOME/HEIKO}/printer_1_data/config"
+MOONRAKER_CONFIG="${HOME/HEIKO}/printer_1_data/config/moonraker.conf"
+KLIPPER_PATH="${HOME/HEIKO}/klipper"
 KLIPPER_VENV_PATH="${KLIPPER_VENV:-${HOME}/klippy-env}"
 
 OLD_K_SHAKETUNE_VENV="${HOME}/klippain_shaketune-env"
